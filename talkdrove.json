@@ -1,7 +1,7 @@
 
 {
-"bot-name": "MALVIN-XD",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
+"bot-name": "M23",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍ23",
   "logo": "https://files.catbox.moe/juxfce.jpg",
   "keywords": ["bot"],
   "documentation-link": "https://malvinxd-pairsession.onrender.com/",
@@ -18,7 +18,7 @@
     "OWNER_NUMBER": {
       "description": "Enter owner number",
       "required": true,
-      "value": "263714757857"
+      "value": "27687651136"
       
        },
       "TIMEZONE": {
