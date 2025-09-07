@@ -1,8 +1,8 @@
 {
-  "name": "ᴍᴀʟᴠɪɴ-xᴅ",
+  "name": "M23",
   "description": "Javascript WhatsApp bot made by ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
   "logo": "https://files.catbox.moe/qumhu4.jpg",
-  "keywords": ["MALVIN XD"],
+  "keywords": ["M23"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
       "BOT_NAME": {
         "description": "write here your bot name.",
         "required": true,
-        "value": "ᴍᴀʟᴠɪɴ xᴅ" 
+        "value": "ᴍ23" 
         
     },
      "PREFIX": {
@@ -33,14 +33,14 @@
    },
      "DESCRIPTION": {
       "description": "add caption for menu and other",
-      "value": "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ xᴅ*",
+      "value": "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍ23*",
       "required": true
       
    }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
-      "value": "263714757857"
+      "value": "27687651136"
       "required": true
       
    },
