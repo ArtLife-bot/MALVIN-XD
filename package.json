@@ -1,13 +1,13 @@
 {
-  "name": "MALVIN XD",
+  "name": "M23",
   "version": "1.5.0",
   "description": "Automated whatsapp md bot created using nodejs and baileys lib",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name MALVIN-XD",
-    "stop": "pm2 stop MALVIN-XD",
-    "restart": "pm2 restart MALVIN-XD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name M23",
+    "stop": "pm2 stop M23",
+    "restart": "pm2 restart M23"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "github:XdKing2/bail",  
